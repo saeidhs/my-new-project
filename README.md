@@ -24,7 +24,7 @@ Describe the process of using the solution. In what kind situations is the solut
 
 Images will make your README look nice!
 Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
-[image of a poop](/5.jpg)
+![image of a poop](/5.jpg)
 
 If you need to resize images, you have to use an HTML tag, like this:
 <img src=(/5.jpg) width="300">
